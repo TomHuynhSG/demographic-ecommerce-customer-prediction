@@ -111,6 +111,7 @@ Here is the grand summary of the above results of each model for Balanced Accura
 - Decision Tree: 0.863
 - XGBoost: 0.843
 - Random Forest: 0.890
+
 As the results, Random Forest is the best model so far with the best BAC value among the models I have tried so far!
 
 Also, the ROC of random forest shows the nice balanced predictions between two classes and look very good compared to others.
