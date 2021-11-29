@@ -1,4 +1,7 @@
 # demographic-ecommerce-customer-prediction
+
+![](https://i.imgur.com/3xYGO8U.png)
+
 Demographic prediction system based on the product viewing activities in hierarchical E-commerce data in **the Data Mining Competition of PAKDD’15 Conference.** FYI, PAKDD is The Pacific-Asia Conference on Knowledge Discovery and Data Mining.
 
 Customers' demographic characteristics, such as gender, provide crucial information for e-commerce service providers in marketing and online application customisation. Indeed, one of the most successful ways to anticipate user demographic information is to look at their online actions, such as browsing activity or catalog browsing statistics. Because users must do something on the system, such as visit the sites, click the items, or browse the catalog, the key advantage of this technique is that the data is available in most applications.
