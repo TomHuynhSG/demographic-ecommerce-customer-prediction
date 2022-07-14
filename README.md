@@ -139,3 +139,6 @@ Here are a few things can be improved:
 - For unbalanced data, instead of oversampling or undersampling, I could look into Cost-sensitive learning which add different weights to misclassification cost to make up for the missing quantitiy.
 - For category column, instead of breaking each sessions with many products into multiple rows with single product, I could figure out how to setup hierarchy tree with mutiple-levels and also combine bi-gram to make use of the sequences of previous product to current product and to next product.
 - Since I selected Random Forest model as the best model, I can spend way more time to fine tune the model with grid-search and random-search to select the optimal parameters. Also, Using cross-validation will provide less-bias way to select the test set and evaluate optimal parameters. But due to the time constrait, I keep this process is simple enough to demontrate the points.
+
+## 🏆 Author
+- Huynh Nguyen Minh Thong - tomhuynhsg@gmail.com
