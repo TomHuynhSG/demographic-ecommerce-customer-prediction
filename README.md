@@ -141,4 +141,4 @@ Here are a few things can be improved:
 - Since I selected Random Forest model as the best model, I can spend way more time to fine tune the model with grid-search and random-search to select the optimal parameters. Also, Using cross-validation will provide less-bias way to select the test set and evaluate optimal parameters. But due to the time constrait, I keep this process is simple enough to demontrate the points.
 
 ## 🏆 Author
-- Huynh Nguyen Minh Thong - tomhuynhsg@gmail.com
+- Huynh Nguyen Minh Thong (Tom Huynh) - tomhuynhsg@gmail.com
